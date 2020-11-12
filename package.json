@@ -15,5 +15,8 @@
     "styled-tools": "^1.7.2",
     "swr": "0.2.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.11.1"
+  }
 }

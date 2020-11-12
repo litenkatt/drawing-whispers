@@ -4,7 +4,7 @@ import DrawingBoard from "../components/DrawingBoard";
 const Game = ({}) => {
   return (
     <div>
-      <DrawingBoard />
+      <DrawingBoard color1="red" color2="blue" />
     </div>
   );
 };
